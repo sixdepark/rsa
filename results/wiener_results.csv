@@ -1,0 +1,9 @@
+﻿key_size_bits,private_exponent_bits,vulnerable,attack_success,recovered_d_correct,execution_time_ms,wiener_bound,private_exponent,public_exponent,modulus,repeats
+20,3,True,True,True,0.013800,10,5,816077,1022117,5
+20,20,False,False,False,0.022600,10,832193,65537,1022117,5
+27,5,True,True,True,0.015000,33,17,94249457,100160063,5
+27,26,False,False,False,0.020100,33,35910881,65537,100160063,5
+33,6,True,True,True,0.014400,85,47,274155215,4295229443,5
+33,17,False,False,False,0.005500,85,65537,65537,4295229443,5
+40,8,True,True,True,0.021300,333,131,114507709931,1000036000099,5
+40,40,False,False,False,0.017100,333,983264276609,65537,1000036000099,5
